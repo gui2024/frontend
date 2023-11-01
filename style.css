@@ -3,11 +3,25 @@
     height: 150px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
-.menu{font-size: :24px;
-font font-family: verdana;
+
+
+.menu{font-size: 24px;
+ font-family: verdana;
 color: white;
 font-weight: bolder;
+}
+
+.logo{
+
+}
+
+.propaganda{
+    height: 500px;
+    background-color: black;
+    background: url("download.jpg")center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
